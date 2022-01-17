@@ -14,3 +14,5 @@
 
 <button on:click={addNum}>{numbers.join(' + ')}</button>
 <h1>{sum}</h1>
+
+<style></style>
